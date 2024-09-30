@@ -8,3 +8,10 @@ Specifically, Table 1 in the paper can be replicated by running
 ```
 source("cSScGGdensityEstimation.R")
 ```
+
+Table 2 and 3 can be replicated by running
+
+```
+source("cSScGGEdgeSelection")
+```
+
